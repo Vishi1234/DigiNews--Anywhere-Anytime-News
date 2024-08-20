@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/DigiNews-%20Anywhere%20Anytime%20News/static/js/main.113556ab.js",
-    "static/js/453.b2157c12.chunk.js": "/DigiNews-%20Anywhere%20Anytime%20News/static/js/453.b2157c12.chunk.js",
-    "index.html": "/DigiNews-%20Anywhere%20Anytime%20News/index.html",
-    "main.113556ab.js.map": "/DigiNews-%20Anywhere%20Anytime%20News/static/js/main.113556ab.js.map",
-    "453.b2157c12.chunk.js.map": "/DigiNews-%20Anywhere%20Anytime%20News/static/js/453.b2157c12.chunk.js.map"
+    "main.js": "/DigiNews--Anywhere-Anytime-News/static/js/main.f4311e36.js",
+    "static/js/453.b2157c12.chunk.js": "/DigiNews--Anywhere-Anytime-News/static/js/453.b2157c12.chunk.js",
+    "index.html": "/DigiNews--Anywhere-Anytime-News/index.html",
+    "main.f4311e36.js.map": "/DigiNews--Anywhere-Anytime-News/static/js/main.f4311e36.js.map",
+    "453.b2157c12.chunk.js.map": "/DigiNews--Anywhere-Anytime-News/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.113556ab.js"
+    "static/js/main.f4311e36.js"
   ]
 }
